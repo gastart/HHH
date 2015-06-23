@@ -12,5 +12,5 @@ int CALLBACK WinMain(
 	LPSTR     lpCmdLine,
 	int       nCmdShow
 {
-	food();
+	foo();
 }
